@@ -17,7 +17,7 @@ SSL and TLS provide security features including authentication, data protection,
 The integrity and confidentiality of transport data, including SOAP messages and HTTP basic authentication, is confirmed when you use SSL and TLS.
 
 
-Transport Level Security doesn’t support scenarios when Intermediaries involved. It only support sending a message directly from client to service without an intermediate system.
+Transport Level Security doesn’t support scenarios where intermediaries are involved. It only supports sending a message directly from client to service without an intermediate system.
 
 ## Message Level Security
 It secures the message itself that is being transported from client to a service and vice versa.
