@@ -8,7 +8,7 @@ Level 1 is meant for all softwares, level 2 is for applications that contain sen
 It secures the actual transport (i.e. the pipe) over which the message passes through from client to a service.
 
 
-HTTP, the most used internet communication protocol, it's currently also the most popular protocol for web services. HTTP is an inherently insecure protocol because all information is sent in clear text between unauthenticated peers over an insecure network. It uses the Secure Sockets Layer (SSL) or Transport Layer Security (TLS) that runs beneath HTTP.
+HTTP, the most used internet communication protocol, it's currently also the most popular protocol for web services. HTTP is an inherently insecure protocol because all information is sent in clear text between unauthenticated peers over an insecure network. It uses the Secure Sockets Layer (SSL) or Transport Layer Security (TLS) which runs beneath HTTP.
 
 
 SSL and TLS provide security features including authentication, data protection, and cryptographic token support for secure HTTP connections. To run with HTTPS, the service port address must be in the form `https://`. 
