@@ -22,9 +22,9 @@ Transport Level Security doesn’t support scenarios where intermediaries are in
 ## Message Level Security
 It secures the message itself that is being transported from client to a service and vice versa.
 
-Unlike in the transport level security, it supports intermediaries, there's usually no problem at all in scenarios even if message routed through multiple intermediate systems.
+Unlike the transport level security, this supports intermediaries, there's usually no problem at all in scenarios even if message routed through multiple intermediate systems.
 
-Message-level security is essential to the web service applications. HTTP basic authentication uses a username and password to authenticate a service client to a secure endpoint. The basic authentication is encoded in the HTTP request that carries the SOAP message. When the application server receives the HTTP request, the username and password are retrieved and verified using the authentication mechanism specific to the server.
+Message-level security is essential to the web service applications. HTTP basic authentication uses a username and password to authenticate a service client to a secure endpoint. The basic authentication is encoded in the HTTP request that carries the message. When the application server receives the HTTP request, the username and password are retrieved and verified using the authentication mechanism specific to the server.
 
 ### Popular threats 
 
