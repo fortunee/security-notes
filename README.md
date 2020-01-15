@@ -29,7 +29,7 @@ Message-level security is essential to the web service applications. HTTP basic 
 ### Popular threats 
 
 #### SQL injection:
-Placement of malicious code in SQL statements through a web page input.
+This is the placement of malicious code in SQL statements through web page inputs.
 It occurs when a user instead of entering the expected data into web page inputs, like forms, sends an SQL statement instead which you will unknowingly run on the database. 
 
 ##### Prevention:
