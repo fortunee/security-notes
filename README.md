@@ -1,4 +1,4 @@
-# Security
+# Open Web Application Security project (OWASP) Application Security Standards
 
 The use of the Open Web Application Security project (OWASP) Application Security Standards ensures that consistency in security is maintained across web applications, the project defines 3 security verification levels of applications with increasing depth that require different levels of implementation. 
 
