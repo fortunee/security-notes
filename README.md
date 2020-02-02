@@ -2,7 +2,7 @@
 
 The use of the Open Web Application Security project (OWASP) Application Security Standards ensures that consistency in security is maintained across web applications, the project defines 3 security verification levels of applications with increasing depth that require different levels of implementation. 
 
-Level 1 is meant for all softwares, level 2 is for applications that contain sensitive data, while level 3 is for most critical applications that perform high value transactions, contains sensitive medical information and applications that require the highest level of trust.
+Level 1 is meant for all applications, level 2 is for applications that contain sensitive data, while level 3 is for most critical applications that perform high value transactions, contains sensitive medical information and applications that require the highest level of trust.
 
 ## Transport Level Security
 It secures the actual transport (i.e. the pipe) over which the message passes through from client to a service.
